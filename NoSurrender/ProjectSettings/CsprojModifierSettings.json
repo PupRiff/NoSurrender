@@ -1,0 +1,1 @@
+{"AdditionalImports":[{"Path":"LangVersion.props","Position":0}],"AdditionalImportsAdditionalProjects":["NoSurrender.Core.csproj","NoSurrender.Common.csproj","NoSurrender.Domain.csproj","NoSurrender.Infra.csproj","NoSurrender.App.csproj","NoSurrender.Editor.csproj"],"EnableAddAnalyzerReferences":false,"AddAnalyzerReferencesAdditionalProjects":[]}

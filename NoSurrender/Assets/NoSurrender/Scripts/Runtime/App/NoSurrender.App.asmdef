@@ -1,0 +1,14 @@
+{
+    "name": "NoSurrender.App",
+    "rootNamespace": "",
+    "references": ["GUID:2c14f0def0741d54ca2f65b89bfba40e"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
